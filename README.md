@@ -20,7 +20,7 @@ Fruits Dataset
 - A dataset featuring both numerical and categorical features, representing attributes of different fruits, is utilized. Clustering is performed using GMM and DBSCAN to identify natural groupings within the dataset.
 
 College Dataset
-A more complex dataset representing statistics of US colleges is used, featuring a mix of continuous and categorical features. K-prototypes clustering is applied to uncover meaningful patterns and groupings among the colleges.
+- A more complex dataset representing statistics of US colleges is used, featuring a mix of continuous and categorical features. K-prototypes clustering is applied to uncover meaningful patterns and groupings among the colleges.
 
 #### Tools and Libraries: Python, Scikit-learn, K-prototypes, Gower Distance, Seaborn, Matplotlib
 
